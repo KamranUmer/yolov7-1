@@ -1,5 +1,5 @@
-## Dog Detection with YOLOv7 on local Machine(Computer)
-Dog Detection with YOLOv7 on local Machine(Computer)
+# Dog Detection with YOLOv7 on local Machine(Computer)
+
 
 
 
