@@ -1,6 +1,8 @@
 ## Dog Detection with YOLOv7
 
+# Demo :
 
+This project contains a demo Image and Video of my project :point_down:
 
 # Dog Detection:
 This repository contains the code and resources for training a dog detection model using YOLOv7 on a custom dataset. YOLOv7 is a state-of-the-art object detection algorithm known for its accuracy and real-time performance. By leveraging YOLOv7, we can efficiently detect and locate dogs in images and videos.
@@ -32,3 +34,15 @@ Once the model is trained and evaluated, it can be used for dog detection on new
 
 Contact
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out to us at kamranumer080@gmail.com. We appreciate your feedback!
+
+
+# images:
+
+![3](https://github.com/KamranUmer/yolov7-1/assets/86089489/d44972d5-4e5c-4849-96c4-ca1c134cdbba)
+
+
+# Video:
+
+[short of dog.zip](https://github.com/KamranUmer/yolov7-1/files/12046000/short.of.dog.zip)
+
+
