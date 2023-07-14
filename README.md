@@ -32,7 +32,7 @@ To assess the performance of the trained model, we evaluated its accuracy on the
 Once the model is trained and evaluated, it can be used for dog detection on new images or videos. We provide a script (inference.py) that takes an input image or video file and applies the trained model to detect dogs. The script outputs the detections, including the bounding box coordinates and confidence scores.
 
 
-Contact
+# Contact:
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out to us at kamranumer080@gmail.com. We appreciate your feedback!
 
 
