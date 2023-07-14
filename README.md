@@ -1,4 +1,4 @@
-## Dog Detection with YOLOv7
+## Dog Detection with YOLOv7 on local Machine(Computer)
 
 # Demo :
 
